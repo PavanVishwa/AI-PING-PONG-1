@@ -1,0 +1,22 @@
+
+
+.mario{
+    width: 100%;
+    text-align: center;
+    background-color: orangered;
+}
+
+.mario h1{
+    display: inline;
+    color: navy;
+    font-family: Impact;
+}
+
+.mario button{
+    float: right;
+    border:1px solid navy;
+}
+
+#start,#status{
+    font-size: 25px;
+}
